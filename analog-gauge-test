@@ -1,0 +1,20 @@
+//This is what we will use to test analog gauges driven by arduino PWM pins
+//These meters were measured to pull ~1.3mA at max deflection 
+//Circuit is: Arduino 5V----3.9kOhm resistor (1/4 Watt)------meter----Arduino GND
+//This will drive the meter up to 100% and then ramp down 3 times to 0 
+
+const int meterPin = 9;
+
+void setup() {
+  pinMode(meterPin, OUTPUT);
+}
+
+void loop() {
+  const int levels[] = {0, 64, 128, 192, 255};
+  const int n = sizeof(levels) / sizeof(levels[0]);
+
+  for (int i = 0; i < n; i++) {
+    analogWrite(meterPin, levels[i]);
+    delay(2000);  // 2 s to see each step clearly
+  }
+}
