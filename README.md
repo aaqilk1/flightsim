@@ -30,6 +30,11 @@ Here are some images from a complete eBay listing that recently sold, showing th
 ![s-l1600-9](https://github.com/user-attachments/assets/11a204d7-cd12-47c0-b41e-6663272a88f1)
 ![s-l1600-3](https://github.com/user-attachments/assets/093e1bf7-00a6-4339-ab34-b75bf61d3f26)
 
+This one is from an OfferUp ad currently for sale near LA that shows the instructor panel jammed in the jumpseat location (you can also make out the plotter underneath the cockpit panel) 
+
+![08101d6ada8c4326a3c80037370ebe64](https://github.com/user-attachments/assets/87291b17-149a-4662-bd75-424e2a0521e5)
+
+
 and some videos showing them in action (an ATC-510 and an ATC-810) 
 
 
