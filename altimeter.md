@@ -1,5 +1,5 @@
-#Altimeter
-
+# Altimeter
+ 
 This file will go over all of the reverse engineering for the altimeter module found on the ATC-710. As with the other motor/servo-driven instruments, this one contains
 a 12V DC motor/gearbox module and continously rotating 50k-ohm potentiometer. For the altimeter specifically, it seems that the needles are connected to a clock mechanism
 which causes the "thousands" hand to move 1 number for every full revolution of the "hundreds" hand. Interestingly enough, it seems that the potentiometer is connected to 
