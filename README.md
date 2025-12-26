@@ -1,4 +1,4 @@
-# flightsim
+# SteamSim
 
 
 So this begins the journey of the "SteamSim" 
