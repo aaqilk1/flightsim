@@ -11,6 +11,10 @@ A few months ago, I came across a listing on OfferUp for $50, an ATC-710 IFR fli
 
 Down the rabbit hole we went – to find that this was from the 70's-80's and was used for IFR training outside the aircraft at flight schools. It originally came with a set of location cards, a plotter, an instructor station and an tape deck/audio system.
 
+Here is an image from the website of Lincoln Flight Center (http://www.lincolnflight.com/facilities/facilities.html) showing their ATC-710 
+<img width="1229" height="622" alt="Screenshot 2025-12-26 at 12 44 38 PM" src="https://github.com/user-attachments/assets/6afe62fe-6659-4075-9c6e-27a2add87219" />
+
+
 From the limited information I could gather, a training flight would go something like this: 
 1. You would insert the appropriate location card in the main simulator slot and insert the corresponding audio track in the tape deck.
 2. You would receive the "brief" with instructions and flight plan from the instructor.
@@ -26,8 +30,11 @@ Here are some images from a complete eBay listing that recently sold, showing th
 ![s-l1600-3](https://github.com/user-attachments/assets/093e1bf7-00a6-4339-ab34-b75bf61d3f26)
 
 and some videos showing them in action (an ATC-510 and an ATC-810) 
-https://www.youtube.com/watch?v=MTD7QKhvRBQ
-https://youtu.be/5sY2O8oLVdU?si=mMnM1IpyzYiHHZmN
+[![YouTube Video](https://img.youtube.com/vi/MTD7QKhvRBQ/0.jpg)](https://www.youtube.com/watch?v=MTD7QKhvRBQ)
+[![YouTube Video](https://img.youtube.com/vi/5sY2O8oLVdU/0.jpg)](https://www.youtube.com/watch?v=5sY2O8oLVdU)
+
 
 Unfortunately, my one was missing all of the accessories and some of the plugs in the back were broken. Thus, after finally getting it open, I decided the best way of preventing this from becoming another piece of e-waste from a bygone era would be to try to interface the original steam gauges with an Arduino-based system that could be integrated with Microsoft Flight Simulator. FS2020 is great, as it handles all of the simulation/physics/gauge animation and has a really robust system for interfacing with plug-ins and flight sim hardware. 
+
+
 
